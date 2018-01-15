@@ -1,4 +1,4 @@
-<h1 align="center"> Theories, Methods and Current Research on Emotions in Library and Information Science, Information Retrieval and Human-Computer Interaction </h1>
+<h3 align="center"> Theories, Methods and Current Research on Emotions in Library and Information Science, Information Retrieval and Human-Computer Interaction </h3>
 
 
 "Affective Computing" >> (Picard, 1997)
