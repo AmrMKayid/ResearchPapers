@@ -9,7 +9,7 @@ Emotions are STATES of emotional feeling.
 
 Theories of Emotions have Two main Categories:
 - Cognition
-- Somatic factors
+- Somatic
 
 
 > Emotions’ primary function is to mobilise an organism to respond quickly to prototypical events similar to those that were encountered in the past
