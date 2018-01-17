@@ -1,4 +1,4 @@
-<h3 align="center"> Theories, Methods and Current Research on Emotions in Library and Information Science, Information Retrieval and Human-Computer Interaction </h3>
+<h3 align="center"><a href="https://amrmkayid.github.io/ResearchPapers/Affective%20Computing/Emotion%20Theory/lopatovska_arapakis_2011_theories.pdf">Theories, Methods and Current Research on Emotions in Library and Information Science, Information Retrieval and Human-Computer Interaction</a></h3>
 
 
 Affective Computing: introduced by Picard, 1997
