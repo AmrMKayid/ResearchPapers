@@ -1,1 +1,1 @@
-<h3 align="center"><a href="https://amrmkayid.github.io/ResearchPapers/Affective%20Computing/Artifical%20Emotions/686296773fe5c70cff03eed434e816eea836.pdf">Computersthatcare:investigatingtheeffects of orientation of emotion exhibited by an embodied computer agent</a></h3>
+<h3 align="center"><a href="https://amrmkayid.github.io/ResearchPapers/Affective%20Computing/Artifical%20Emotions/686296773fe5c70cff03eed434e816eea836.pdf">Computers that care: investigating the effects of orientation of emotion exhibited by an embodied computer agent</a></h3>
