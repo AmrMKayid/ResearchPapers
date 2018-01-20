@@ -18,3 +18,7 @@ The Experiement was based on Casino-style blackjack with Ninety-six students par
 
 ### Results:
 > empathic emotion was found to have major positive effects on both liking and trust, as well as on perceived caring and felt support.
+
+---
+
+<h3 align="center"><a href="https://amrmkayid.github.io/ResearchPapers/Affective%20Computing/Artifical%20Emotions/10.1.1.205.8563.pdf">Simulated Emotion in Affective Embodied Agents</a></h3>
