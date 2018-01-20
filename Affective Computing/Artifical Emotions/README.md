@@ -22,3 +22,22 @@ The Experiement was based on Casino-style blackjack with Ninety-six students par
 ---
 
 <h3 align="center"><a href="https://amrmkayid.github.io/ResearchPapers/Affective%20Computing/Artifical%20Emotions/10.1.1.205.8563.pdf">Simulated Emotion in Affective Embodied Agents</a></h3>
+
+> The aim is to investigates how users respond to simulated displays of emotion.
+
+#### Some good questions:
+- How can we tell the respond of users to more cognitive emotions like frustration for example!
+- How can we simulate mixed emotions?!
+
+Previous studies illustrate that simulated emotion can influence user attitudes and perceptions.
+
+But in this study we want to deeplying understand how they influence users and how it can be utilised to enhance HCI.
+
+##### In this study an embodied agent (human nutritional coach) was used to see if they can they potentially influence user attitudes and habitual behavior more effectively over extended periods of interaction through two different experiments.
+
+### Results:
+- subjects perceived the emotional agent as significantly more emotionally expressive than the unemotional agent.
+- However, a few subjects commented on how they did not like the “fake perkiness” of the agent.
+
+### Conclusion:
+> More FOCUS needs to be given to COGNITIVE Emotions.
