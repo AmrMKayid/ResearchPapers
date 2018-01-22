@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://amrmkayid.github.io/ResearchPapers/Affective%20Computing/Emotion%20Theory/p838-abdelrahman.pdf">Implicit Engagement Detection for Interactive Museums Using Brain-Computer Interfaces</a></h3>
+<h3 align="center"><a href="https://amrmkayid.github.io/ResearchPapers/Affective%20Computing/Emotion%20Measurement-Contact/p838-abdelrahman.pdf">Implicit Engagement Detection for Interactive Museums Using Brain-Computer Interfaces</a></h3>
 
 The study propose a concept which uses brain signals from commercial grade Brain-Computer Interface (BCI) devices to detect museum visitors’ engagement in the exhibited objects.
 
