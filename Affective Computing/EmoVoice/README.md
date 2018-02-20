@@ -4,7 +4,7 @@
 
 Joy | Sadness | Anger | Disgust | Fear | Surprise
 |:--: | :--: | :--: | :--: | :--: | :--: |
-<img src="pics/joy.jpg"/> | <img src="pics/sadness.jpg"/> | <img src="pics/anger.jpg"/> | <img src="pics/disgust.jpg"/> | <img src="pics/fear.jpg"/> | <img src="pics/surprise.jp2"/>
+<img src="pics/joy.jpg"/> | <img src="pics/sadness.jpg"/> | <img src="pics/anger.jpg"/> | <img src="pics/disgust.jpg"/> | <img src="pics/fear.jpg"/> | <img src="pics/surprise.jpg"/>
 
 ---
 
